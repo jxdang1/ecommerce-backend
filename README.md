@@ -45,7 +45,8 @@ node server.js
 Open up Insomnia core to GET, POST, PUT and DELETE from different routes.
 
 ## Usage
-The application is used to GET data for each route(categories, products, or tags) as well as create, update, and delete data in those routes. You are able to view a demo of this project [here]
+The application is used to GET data for each route(categories, products, or tags) as well as create, update, and delete data in those routes. You are able to view a demo of this project [here](https://watch.screencastify.com/v/J4XJ4oF1W2kPas6JHHar)
+
 
 ## Credit
 
